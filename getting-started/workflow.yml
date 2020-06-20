@@ -1,6 +1,6 @@
 jobDefs:
   - repo: players
-    image: wrgl/wrgl-examples-fifa-20:0.1.0
+    image: wrgl/wrgl-examples-fifa-20:0.2.0
     command:
       - python
       - players.py
@@ -12,7 +12,7 @@ jobDefs:
       - players_19
       - players_20
   - repo: player_attrs
-    image: wrgl/wrgl-examples-fifa-20:0.1.0
+    image: wrgl/wrgl-examples-fifa-20:0.2.0
     command:
       - python
       - player_attrs.py
